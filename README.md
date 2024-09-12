@@ -1,0 +1,1 @@
+Este projeto é uma aplicação Java para gerenciamento de cadastro de usuários. A aplicação permite adicionar, editar, excluir e visualizar informações dos usuários. Foi desenvolvida para demonstrar a utilização de uma interface gráfica em Java e a interação com um banco de dados.
